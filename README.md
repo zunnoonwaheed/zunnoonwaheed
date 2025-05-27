@@ -1,8 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Zunnoon Waheed</h1>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://avatars.githubusercontent.com/u/583231?v=4" alt="Zunnoon Waheed Profile" width="150" style="border-radius: 50%;" />
-</div>
 
 <h3 align="center">A passionate Shopify & MERN Stack Developer from Pakistan. I build scalable eCommerce solutions and run content/media platforms like <a href="https://www.youtube.com/@NewslyPakistan" target="_blank">NewslyPakistan</a></h3>
 
