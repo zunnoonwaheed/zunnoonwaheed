@@ -63,7 +63,7 @@ I build high-performance eCommerce solutions and full-stack web apps that scale 
 <h3 align="center">🏆 GitHub Achievements & Contributions</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zunnoonwaheed&theme=flat&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zunnoonwaheed&theme=flat&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=7" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -71,14 +71,3 @@ I build high-performance eCommerce solutions and full-stack web apps that scale 
 ### 🧩 My Github Contributions
 ![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
 
----
-
-<h3 align="center">👨‍💼 About Me & 🤝 Open to Collaborations</h3>
-
-🎯 Helping brands scale with **Shopify & WordPress** solutions  
-💻 Building SaaS products & AI tools at **Kayi Digital** like **Zoebot – AI-powered business assistant** 🤖  
-🛍️ Skilled in **Shopify Liquid, Theme Customization, Store Setup & Optimization**  
-🌐 Expertise in **Headless CMS, API Integrations & React-based Storefronts**  
-🤝 Open to collaborations on **eCommerce Development, SaaS Projects & Full Stack Web Apps**  
-🎤 Available for **Guest Sessions, Webinars & Technical Talks**  
-📧 Let’s connect: [zunnoonwaheed@gmail.com](mailto:zunnoonwaheed@gmail.com)
