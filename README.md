@@ -1,78 +1,82 @@
-<h1 align="center">Hey there 👋, I'm Zunnoon Waheed</h1>
+<h1 align="center">Hey Everyone 👋, I'm Zunnoon Waheed</h1>
 
 <h3 align="center">
-Full-Stack Developer specializing in <strong>Shopify, WordPress,</strong> and <strong>MERN Stack</strong> solutions.  
-Currently crafting digital experiences at <strong>DreamDecor</strong> and <strong>Kayi Digital</strong>.
+A passionate <b>Shopify, WordPress & MERN Stack Developer</b> from Pakistan.<br/>
+I build high-performance eCommerce solutions and full-stack web apps that scale businesses worldwide.
 </h3>
-
----
 
 <p align="center">
   <a href="https://github.com/zunnoonwaheed">
     <img src="https://img.shields.io/github/followers/zunnoonwaheed?label=Follow&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zunnoonwaheed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
----
-
-### 👨‍💻 About Me  
-
-- 🧠 Focused on **Shopify theme customization**, **WordPress development**, and **MERN-based apps**  
-- ⚙️ Skilled in **Next.js**, **Shopify Hydrogen**, and **Headless CMS**  
-- 🤖 Exploring **AI-powered automation** and chatbots like **ZoeBot**  
-- 🎨 Passionate about **clean code, UI/UX**, and **performance-driven design**  
-- 🚀 I build modern, scalable, and conversion-focused web solutions  
-
----
-
-### 🧰 Tech Stack  
-
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35"/>
+  <img src="https://komarev.com/ghpvc/?username=zunnoonwaheed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+- 💼 Currently **Shopify & WordPress Developer** at **DreamDecor**  
+- 💻 **Full Stack Developer (MERN)** at **Kayi Digital**, working on scalable SaaS tools like **Zoebot** 🤖  
+- 🧠 Learning and implementing **Next.js**, **Shopify Hydrogen**, and **Headless CMS** architectures  
+- ⚙️ Building advanced Shopify stores, WordPress CMS websites & full-stack React/Node apps  
+- 🌍 Focused on performance, clean UI/UX, and conversion-optimized experiences  
+- 💬 Let’s talk about:  
+  🛍️ Shopify & eCommerce | ⚛️ MERN Stack | 🧩 WordPress CMS | 🚀 Web Performance  
+- 👨‍💻 Explore my work: [https://github.com/zunnoonwaheed?tab=repositories](https://github.com/zunnoonwaheed?tab=repositories)  
+- 📫 Reach me at: **zunnoonwaheed@gmail.com**
+
+---
+
+<h3 align="left">🧰 Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Insights  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunnoonwaheed&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+
+---
+
+<h3 align="center">🏆 GitHub Achievements & Contributions</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=vue&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=vue&hide_border=true" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=zunnoonwaheed&theme=flat&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
 
----
-
-### 🧠 Expertise  
-
-- Shopify Store Setup & Liquid Customization  
-- WordPress Theme & WooCommerce Development  
-- MERN Stack Full-Stack Applications  
-- Headless CMS, Next.js & Shopify Hydrogen  
-- API Integration (OpenAI, Stripe, Shopify, REST/GraphQL)  
-- Speed Optimization, SEO & UI/UX Design  
+### 🧩 My Github Contributions
+![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🤝 Connect  
+<h3 align="center">👨‍💼 About Me & 🤝 Open to Collaborations</h3>
 
-- 💬 Open to Shopify, WordPress & Full Stack collaborations  
-- 🧑‍💻 Available for Freelance & Remote Roles  
-- 📧 Email: **[zunnoonwaheed@gmail.com](mailto:zunnoonwaheed@gmail.com)**  
-
----
-
-> *"Crafting seamless digital experiences with code, creativity, and precision."*
+🎯 Currently helping brands scale with **Shopify and WordPress solutions**  
+💻 Building SaaS products and AI tools at **Kayi Digital** like **Zoebot – AI-powered business assistant** 🤖  
+🛍️ Experienced in **Shopify Liquid, Custom Themes, Store Setup & Optimization**  
+🌐 Skilled in **Headless CMS, API Integration, and React-based Storefronts**  
+🤝 Open to collaborations in **eCommerce Development, SaaS Projects, or Full Stack Web Apps**  
+🎤 Available for **Guest Sessions, Webinars, and Technical Talks**  
+📧 Let’s connect: [zunnoonwaheed@gmail.com](mailto:zunnoonwaheed@gmail.com)
