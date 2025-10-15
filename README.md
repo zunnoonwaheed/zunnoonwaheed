@@ -1,9 +1,8 @@
-<h1 align="center">Hey Everyone 👋, I'm Zunnoon Waheed</h1>
+<h1 align="center">Hey there 👋, I'm Zunnoon Waheed</h1>
 
 <h3 align="center">
-A passionate <strong>Shopify & WordPress Developer</strong> and <strong>MERN Stack Engineer</strong> from Pakistan 🇵🇰  
-Currently working as a <strong>Shopify & WordPress Developer</strong> at <a href="https://dreamdecor.pk" target="_blank"><strong>DreamDecor</strong></a>  
-and <strong>Full Stack Developer</strong> at <a href="https://kayidigital.com" target="_blank"><strong>Kayi Digital</strong></a>.
+Full-Stack Developer specializing in <strong>Shopify, WordPress,</strong> and <strong>MERN Stack</strong> solutions.  
+Currently crafting digital experiences at <strong>DreamDecor</strong> and <strong>Kayi Digital</strong>.
 </h3>
 
 ---
@@ -21,80 +20,59 @@ and <strong>Full Stack Developer</strong> at <a href="https://kayidigital.com" t
 
 ### 👨‍💻 About Me  
 
-- 💼 Experienced in **Shopify theme customization**, **Liquid development**, and **Shopify App integration**  
-- 🌐 Skilled in **WordPress development** – from custom themes to WooCommerce optimization  
-- ⚛️ Proficient in **MERN Stack (MongoDB, Express, React, Node.js)** for scalable, modern web apps  
-- 🧠 Building with **Next.js**, **Shopify Hydrogen**, and **Headless WordPress**  
-- 🤖 Exploring **AI-powered automation tools** and custom chatbots like **ZoeBot**  
-- 🧩 Strong focus on **UI/UX**, **speed optimization**, and **conversion-driven design**  
-- 🚀 Dedicated to building clean, scalable, and impactful digital experiences  
+- 🧠 Focused on **Shopify theme customization**, **WordPress development**, and **MERN-based apps**  
+- ⚙️ Skilled in **Next.js**, **Shopify Hydrogen**, and **Headless CMS**  
+- 🤖 Exploring **AI-powered automation** and chatbots like **ZoeBot**  
+- 🎨 Passionate about **clean code, UI/UX**, and **performance-driven design**  
+- 🚀 I build modern, scalable, and conversion-focused web solutions  
 
 ---
 
-### 🧰 Languages & Tools  
+### 🧰 Tech Stack  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" height="35"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=vue&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=vue&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=vue&hide_border=true" width="48%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunnoonwaheed&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🧩 Contributions  
-
-![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 🧠 Expertise  
 
-- ✅ Shopify Theme Development & Liquid Customization  
-- ✅ WordPress & WooCommerce Development  
-- ✅ MERN Stack Full-Stack Web Applications  
-- ✅ Next.js, Headless CMS & Shopify Hydrogen  
-- ✅ API Integrations (OpenAI, Stripe, Shopify, REST/GraphQL)  
-- ✅ Performance Optimization & SEO  
-- ✅ UX/UI Design & Responsive Development  
+- Shopify Store Setup & Liquid Customization  
+- WordPress Theme & WooCommerce Development  
+- MERN Stack Full-Stack Applications  
+- Headless CMS, Next.js & Shopify Hydrogen  
+- API Integration (OpenAI, Stripe, Shopify, REST/GraphQL)  
+- Speed Optimization, SEO & UI/UX Design  
 
 ---
 
-### 🤝 Let’s Connect  
+### 🤝 Connect  
 
-- 💬 Open to: Shopify, WordPress & Full Stack Collaborations  
-- 🧑‍💻 Available for Freelance & Remote Projects  
-- 📧 Reach me at: **[zunnoonwaheed@gmail.com](mailto:zunnoonwaheed@gmail.com)**  
-- 🌐 Portfolio: **[zunnoonwaheed.dev](https://zunnoonwaheed.dev)**  
+- 💬 Open to Shopify, WordPress & Full Stack collaborations  
+- 🧑‍💻 Available for Freelance & Remote Roles  
+- 📧 Email: **[zunnoonwaheed@gmail.com](mailto:zunnoonwaheed@gmail.com)**  
 
 ---
 
-> *"Building scalable Shopify stores, beautiful WordPress experiences, and powerful full-stack applications — one clean commit at a time."*
+> *"Crafting seamless digital experiences with code, creativity, and precision."*
