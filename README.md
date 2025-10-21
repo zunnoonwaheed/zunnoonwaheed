@@ -60,15 +60,6 @@ I build high-performance eCommerce solutions and full-stack web apps that scale 
 
 ---
 
-<h3 align="center">🏆 GitHub Achievements & Contributions</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zunnoonwaheed&theme=flat&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=7&titles=Stars,Commits,PullRequest,Repositories,Followers,Experience,MultiLanguage" alt="GitHub Trophy" />
-</p>
-
-
----
-
 ### 🧩 My Github Contributions
 ![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
 
