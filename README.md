@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Zunnoon Waheed</h1>
 <h3 align="center">
-A passionate <b>Shopify, Full Stack & AI Systems Developer</b> from Lahore, Pakistan.<br/>
+A passionate <b>Shopify, Full Stack & AI Systems Developer<br/>
 I build high-performance eCommerce platforms, full-stack web apps, and RAG-powered AI products that scale businesses.
 </h3>
 
@@ -32,40 +32,56 @@ I build high-performance eCommerce platforms, full-stack web apps, and RAG-power
 - 👨‍💻 Explore my work: [github.com/zunnoonwaheed?tab=repositories](https://github.com/zunnoonwaheed?tab=repositories)
 - 📫 Reach me at: **zunnoonwaheed@gmail.com**
 
----
+<br/>
 
-<h3 align="left">🧰 Languages and Tools:</h3>
+## 🧰 Tech Stack
+
+**Frontend**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
 </p>
 
+**Backend & Database**
 <p align="left">
-  <img src="https://img.shields.io/badge/Shopify-FFFFFF?style=flat-square&logo=shopify&logoColor=7AB55C" />
-  <img src="https://img.shields.io/badge/Shopify%20Plus-FFFFFF?style=flat-square&logo=shopify&logoColor=95BF47" />
-  <img src="https://img.shields.io/badge/HubSpot-FFFFFF?style=flat-square&logo=hubspot&logoColor=FF7A59" />
-  <img src="https://img.shields.io/badge/GoHighLevel-FFFFFF?style=flat-square&color=f5f5f5&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/Klaviyo-FFFFFF?style=flat-square&logo=klaviyo&logoColor=000000" />
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=1C3C3C" />
-  <img src="https://img.shields.io/badge/Pinecone-FFFFFF?style=flat-square&logo=pinecone&logoColor=000000" />
-  <img src="https://img.shields.io/badge/Mistral%207B-FFFFFF?style=flat-square&color=f5f5f5&logoColor=1A1A1A" />
-  <img src="https://img.shields.io/badge/Vercel-FFFFFF?style=flat-square&logo=vercel&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
+**eCommerce & CRM**
+<p align="left">
+  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20Plus-95BF47?style=for-the-badge&logo=shopify&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoHighLevel-1A1A2E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Klaviyo-000000?style=for-the-badge&logo=klaviyo&logoColor=white" />
+</p>
+
+**AI / ML**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mistral%207B-FA520F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+**Tools & DevOps**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+<br/>
 
 ---
 
