@@ -69,14 +69,5 @@ I build high-performance eCommerce platforms, full-stack web apps, and RAG-power
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1a1a2e&icon_color=6C63FF&text_color=333333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunnoonwaheed&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=1a1a2e&text_color=333333" />
-</p>
-
----
-
 ### 🧩 My GitHub Contributions
 ![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
