@@ -1,207 +1,137 @@
 <div align="center">
 
-```
-PORTFOLIO — INDEX Nº 001                                    LAHORE, PK — 31.58° N
-```
+# Hi, I'm Zunnoon Waheed 👋
 
-# Zunnoon Waheed
+### Full-Stack Web Developer & CMS Specialist
 
-**Full-Stack Web Developer & CMS Specialist — Lahore, Pakistan.**
+I build headless commerce platforms, full-stack web applications, and AI-powered systems —
+currently leading a development team while shipping production Shopify & CMS builds.
 
-```
-focus  ▸  headless commerce · full-stack systems · AI-integrated platforms
-          open to senior roles · freelance · collaboration
-```
+<br/>
 
-```
-REACT · NEXT.JS · NODE.JS          ·          SHOPIFY & HEADLESS CMS          ·          RAG / LLM SYSTEMS   FAST-NUCES — 2022 / 2026
-```
-
-**[Portfolio](#)** · **[Resume](#)** · **[LinkedIn](https://www.linkedin.com/in/muhammad-zunnoon-1386ba211)** · **[GitHub](https://github.com/zunnoonwaheed)** · **[Email](mailto:zunnoonwaheed@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-zunnoon-1386ba211)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zunnoonwaheed@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zunnoonwaheed)
 
 </div>
 
 <br/>
 
-## 01&nbsp;&nbsp;WHOAMI <sub><sup>~/01-whoami</sup></sub>
----
+## 🧭 About Me
 
-Full-stack developer currently leading a team of 6 at **Kayi Digital**, shipping React.js, Next.js
-and Node.js products, while independently running Shopify & CMS builds at **DreamDecor**.
-Working across headless commerce, CRM automation and RAG-based LLM systems.
-Drawn to problems where clean architecture, fast delivery, and real business results meet.
-
-```
-ROLE        Team Lead · Kayi Digital  (Jul 2025 → present)
-ROLE        Shopify & CMS Developer · DreamDecor  (Nov 2024 → present)
-FOCUS       Headless Shopify · Full-Stack Systems · RAG/LLM · CRM Automation
-STATUS      Open to senior full-stack / lead roles · freelance · collaboration
-EDUCATION   BS Software Engineering — FAST-NUCES, Islamabad (2022–2026)
-```
+- 🧑‍💼 **Team Lead** at **Kayi Digital** *(Jul 2025 – Present)* — leading a team of 6 developers on React.js, Next.js & Node.js builds
+- 🛍️ **Shopify & CMS Developer** at **DreamDecor** *(Nov 2024 – Present)* — headless storefronts, custom Liquid theming, Storefront API
+- 🎓 BS Software Engineering, **FAST-NUCES, Islamabad** *(2022 – 2026)*
+- 🧠 Building RAG-based AI systems with LangChain, Pinecone, and fine-tuned LLMs
+- ⚙️ Focused on headless eCommerce, CRM automation, and clean, scalable architecture
+- 📊 Measurable impact: **-40%** deployment time · **-30%** bug rate · **+25%** returning customer sessions
+- 💬 Open to senior full-stack roles, freelance work, and collaboration
 
 <br/>
 
-## 02&nbsp;&nbsp;SYSTEM MAP <sub><sup>~/02-ecosystem</sup></sub>
----
+## 🧰 Tech Stack
 
-```
-                              SYSTEM MAP — EVERYTHING FROM ONE PIPELINE                    FIG. 01
+<table>
+<tr>
+<td valign="top" width="33%">
 
-                                          AI / RAG
-                          ┌───────────────────────────────┐
-                          │           lawmate ai           │
-                          │   rag legal engine · mistral7b │
-                          └───────────────┬───────────────┘
-                                          │
-        HEADLESS COMMERCE                │                    ENTERPRISE
-   ┌──────────────────────┐              │             ┌──────────────────────┐
-   │     dreamdecor.com     │             │             │  alkaram automation   │
-   │  multi-brand · liquid  │─┐           │           ┌─│  rbac · dashboards    │
-   └──────────────────────┘ │            │            │ └──────────────────────┘
-   ┌──────────────────────┐ │   ┌────────┴────────┐   │ ┌──────────────────────┐
-   │   kanubeauty.com      │─┼──▶│  ZUNNOON.SYS    │◀──┼─│  elipse studio 3d     │
-   │  hubspot · klaviyo     │ │   │ full-stack core │   │ │  three.js · webgl     │
-   └──────────────────────┘ │   └────────┬────────┘   │ └──────────────────────┘
-   ┌──────────────────────┐ │            │            │ ┌──────────────────────┐
-   │    courtclub.eu        │─┘           │            └─│    factcheck ai       │
-   │  shopify plus · GHL     │            │              │  nlp · misinformation │
-   └──────────────────────┘              │              └──────────────────────┘
-                                          │
-                          ┌───────────────┴───────────────┐
-                          │        strive workspace         │
-                          │   saas · real-time collab       │
-                          └─────────────────────────────────┘
+**Languages**
+<br/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-DASHED PATHS — CRM / DATA IN MOTION (HubSpot · GoHighLevel · Klaviyo · Supabase)
-```
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+<br/>
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Commerce & CMS**
+<br/>
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Liquid](https://img.shields.io/badge/-Liquid-5CADD2?style=flat-square)
+
+</td>
+<td valign="top" width="33%">
+
+**AI & Automation**
+<br/>
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=flat-square)
+![HubSpot](https://img.shields.io/badge/-HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+
+**Tooling**
+<br/>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 03&nbsp;&nbsp;PROJECTS <sub><sup>~/03-projects</sup></sub>
----
+## 💼 Experience
 
-**01 / LAWMATE AI**
-RAG-powered legal platform, fine-tuned Mistral 7B on 20+ years of Panel Court and Session Court data.
-Legal Q&A, precedent search, and case recommendations served through a full-stack interface.
-`LANGCHAIN` · `PINECONE` · `REACT.JS` · `NODE.JS`
-
-**02 / ELIPSE STUDIO 3D CONFIGURATOR**
-Real-time, browser-based 3D product viewer built for CGI clients, with live material and layout preview.
-Runs on a headless CMS backend for asset and configuration management.
-`THREE.JS` · `WEBGL` · `HEADLESS CMS`
-
-**03 / ALKARAM AUTOMATION SYSTEM**
-Enterprise workflow platform for Alkaram Textiles Pvt Ltd — role-based access control, real-time
-dashboards, and automation rule engines driving internal operations.
-`REACT.JS` · `NODE.JS` · `MONGODB` · `RBAC`
-
-**04 / FACTCHECK AI**
-NLP-driven misinformation detection engine with live source verification and sub-2-second
-response times.
-`REACT.JS` · `NODE.JS` · `NLP`
-
-**05 / STRIVE WORKSPACE**
-Real-time collaborative SaaS productivity platform built on a REST API architecture.
-`NEXT.JS` · `NODE.JS` · `MONGODB` · `REST APIS`
-
-**06 / DREAMDECOR.COM**
-Multi-brand headless Shopify platform — custom Liquid theming, Storefront API, CLI deployment,
-and conversion rate optimization across five storefronts.
-`SHOPIFY` · `LIQUID` · `STOREFRONT API` · `CRO`
-
-**07 / KANUBEAUTY.COM — SOUL SISTERS**
-Headless Shopify build with CLI Liquid development, HubSpot CRM, Klaviyo, Meta Pixel, and
-upsell funnel logic — lifted returning-customer sessions by 25%.
-`SHOPIFY` · `HUBSPOT` · `KLAVIYO` · `META PIXEL`
-
-**08 / COURTCLUB.EU**
-Shopify Plus storefront with headless configuration, multi-currency support, a Next.js frontend,
-and GoHighLevel CRM integration.
-`SHOPIFY PLUS` · `NEXT.JS` · `GOHIGHLEVEL`
-
-**09 / MYBENDEL & HEAVENLY BEDS UK**
-Luxury fashion and bedding storefronts on Shopify Plus / headless Shopify with custom Liquid
-theming, premium UX, and Core Web Vitals optimization.
-`SHOPIFY PLUS` · `LIQUID` · `CORE WEB VITALS`
+| Role | Company | Duration |
+|---|---|---|
+| Team Lead | Kayi Digital | Jul 2025 – Present |
+| Shopify & CMS Developer | DreamDecor | Nov 2024 – Present |
 
 <br/>
 
-## 04&nbsp;&nbsp;TELEMETRY <sub><sup>~/04-telemetry</sup></sub>
----
+## 🏆 Featured Projects
 
-```
-STACK DISTRIBUTION · EST.                    IMPACT METRICS
+| Project | Description | Stack |
+|---|---|---|
+| **LawMate AI** | RAG-powered legal platform, fine-tuned Mistral 7B on 20+ years of court data for legal Q&A and precedent search | LangChain, Pinecone, React, Node.js |
+| **Elipse Studio 3D Configurator** | Real-time browser-based 3D product viewer with live material & layout preview for CGI clients | Three.js, WebGL, Headless CMS |
+| **Alkaram Automation System** | Enterprise workflow platform with RBAC, real-time dashboards & automation rule engines | React, Node.js, MongoDB |
+| **FactCheck AI** | NLP misinformation detector with live source verification and sub-2s response time | React, Node.js, NLP |
+| **Strive Workspace** | Real-time collaborative SaaS productivity platform | Next.js, Node.js, MongoDB |
+| **DreamDecor.com** | Multi-brand headless Shopify platform with custom Liquid theming & CRO | Shopify, Liquid, Storefront API |
+| **KanuBeauty.com** | Headless Shopify build with HubSpot CRM, Klaviyo & upsell funnels — +25% returning sessions | Shopify, HubSpot, Klaviyo |
+| **CourtClub.eu** | Shopify Plus, multi-currency, Next.js frontend with GoHighLevel CRM | Shopify Plus, Next.js, GHL |
+| **MyBendel / Heavenly Beds UK** | Luxury storefronts on Shopify Plus with custom theming & Core Web Vitals optimization | Shopify Plus, Liquid |
 
-react / next.js   ████████████████░░  32%    deployment time cut          -40%
-node.js           ████████████░░░░░░  24%    bug rate reduced             -30%
-shopify / liquid  ██████████░░░░░░░░  20%    returning sessions           +25%
-python / ai-ml    ████████░░░░░░░░░░  16%    storefronts shipped           5+
-other             ████░░░░░░░░░░░░░░   8%    team led (Kayi Digital)       6
-```
+📂 More on [github.com/zunnoonwaheed](https://github.com/zunnoonwaheed?tab=repositories)
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunnoonwaheed&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunnoonwaheed&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=tokyonight&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zunnoonwaheed/zunnoonwaheed/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=default&hide_border=true" alt="streak stats"/>
 </p>
 
 <br/>
 
-## 05&nbsp;&nbsp;THE ROUTE <sub><sup>~/05-journey</sup></sub>
----
+## 🎓 Certifications
 
-```
-THE ROUTE SO FAR                                                              FIG. 02
-
-2020                    2022                2024                2025          2026 →
-pre-engineering ─────── FAST-NUCES ───────── DreamDecor ───────── Kayi Digital ── now
-GCU, Lahore              begins CS           Shopify & CMS         Team Lead     open to
-                                              Developer                          senior roles
-```
-
-**2025 — present&nbsp;&nbsp;·&nbsp;&nbsp;Team Lead · Kayi Digital**
-Leading 6 developers across React.js, Next.js and Node.js delivery for Alkaram Textiles,
-Elipse Studio, and Soul Sisters (Kanu Beauty). Cut deployment time 40%, reduced bugs 30%
-via CI/CD pipelines, code review, and agile sprints.
-
-**2024 — present&nbsp;&nbsp;·&nbsp;&nbsp;Shopify & CMS Developer · DreamDecor**
-Built and maintain 5 multi-brand Shopify storefronts on headless CLI development. Integrated
-Klaviyo, Meta Pixel and GoHighLevel CRM, lifting returning customer sessions by 25%. Improved
-Core Web Vitals across all storefronts.
-
-**2022 — 2026&nbsp;&nbsp;·&nbsp;&nbsp;BS Software Engineering · FAST-NUCES, Islamabad**
-**2020 — 2022&nbsp;&nbsp;·&nbsp;&nbsp;Intermediate Pre-Engineering · GCU, Lahore**
+`Google Digital Marketing` &nbsp;·&nbsp; `HubSpot CRM & Social Media` &nbsp;·&nbsp; `Coursera SEO` &nbsp;·&nbsp; `NAVTTC Full Stack Development` &nbsp;·&nbsp; `PNY MERN Stack` &nbsp;·&nbsp; `FORAGE Backend Engineering & Agile`
 
 <br/>
-
-## 06&nbsp;&nbsp;STACK <sub><sup>~/06-stack</sup></sub>
----
-
-```
-LANGUAGES     JavaScript · TypeScript · Python · PHP
-FRONTEND      React.js · Next.js · Redux · Three.js / WebGL
-BACKEND       Node.js · Express · REST APIs
-COMMERCE      Shopify (Headless) · Liquid · Storefront API · WordPress
-DATA          MongoDB · MySQL
-AI / RAG      LangChain · Pinecone · Fine-tuned LLMs (Mistral 7B) · NLP
-CRM & MKTG    HubSpot · GoHighLevel (GHL) · Klaviyo · Meta Pixel
-TOOLING       Git · Docker · Figma · CI/CD
-```
-
-```
-STATUS — BUILDING
-probably shipping a storefront, probably past midnight
-```
 
 <div align="center">
-
-`zunnoonwaheed.dev` · `Lahore, PK` · `© 2026`
-
+<i>Open to senior full-stack, Shopify, and AI engineering opportunities — let's build something scalable.</i>
 </div>
