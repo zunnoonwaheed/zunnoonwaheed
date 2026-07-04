@@ -1,56 +1,245 @@
-<h1 align="center">Hey Everyone 👋, I'm Zunnoon Waheed</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Zunnoon Waheed</h1>
 
 <h3 align="center">
-A passionate <b>Shopify, WordPress & MERN Stack Developer</b> from Pakistan.<br/>
-I build high-performance eCommerce solutions and full-stack web apps that scale businesses worldwide.
+Full Stack Web Developer • Shopify Expert • Headless Commerce • AI Applications
 </h3>
 
 <p align="center">
-  <a href="https://github.com/zunnoonwaheed">
-    <img src="https://img.shields.io/github/followers/zunnoonwaheed?label=Follow&style=social" />
-  </a>
+Building scalable Shopify stores, SaaS platforms, AI-powered applications, and modern web experiences.
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=zunnoonwaheed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 💼 Currently **Shopify & WordPress Developer** at **DreamDecor**  
-- 💻 **Full Stack Developer (MERN)** at **Kayi Digital**, working on scalable SaaS tools like **Zoebot** 🤖  
-- 🧠 Learning and implementing **Next.js**, **Shopify Hydrogen**, and **Headless CMS** architectures  
-- ⚙️ Building advanced Shopify stores, WordPress CMS websites & full-stack React/Node apps  
-- 🌍 Focused on performance, clean UI/UX, and conversion-optimized experiences  
-- 💬 Let’s talk about:  
-  🛍️ Shopify & eCommerce | ⚛️ MERN Stack | 🧩 WordPress CMS | 🚀 Web Performance  
-- 👨‍💻 Explore my work: [https://github.com/zunnoonwaheed?tab=repositories](https://github.com/zunnoonwaheed?tab=repositories)  
-- 📫 Reach me at: **zunnoonwaheed@gmail.com**
-
----
-
-<h3 align="left">🧰 Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<p align="center">
+<a href="https://github.com/zunnoonwaheed">
+<img src="https://img.shields.io/github/followers/zunnoonwaheed?style=social"/>
+</a>
+<a href="https://www.linkedin.com/in/muhammad-zunnoon-1386ba211">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+</a>
+<a href="mailto:zunnoonwaheed@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
+</a>
 </p>
 
 ---
 
-### 🧩 My Github Contributions
-![Snake animation](https://github.com/zunnoonwaheed/zunnoonwaheed/blob/output/github-contribution-grid-snake.svg)
+# 🚀 About Me
+
+I'm a Full Stack Web Developer from Pakistan with experience building production-grade applications using **React, Next.js, Node.js, Shopify, AI, and Headless CMS.**
+
+Currently I lead development teams and build enterprise products ranging from Shopify Plus stores to AI-powered SaaS platforms.
+
+- 💼 Team Lead @ Kayi Digital
+- 🛍 Shopify & CMS Specialist @ DreamDecor
+- ⚡ React • Next.js • Node.js • MongoDB
+- 🤖 AI Applications (RAG, LangChain, LLMs)
+- 🛒 Shopify Plus • Hydrogen • Storefront API
+- 📈 CRM Integrations (HubSpot, GoHighLevel)
+- 🎯 Performance Optimization & Core Web Vitals
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Team Lead — Kayi Digital
+
+- Leading a team of developers delivering React & Next.js applications
+- Built enterprise workflow automation systems
+- Developed AI-powered legal search platform
+- Built real-time 3D configurators using Three.js & WebGL
+- CI/CD, Agile, Code Reviews
+
+---
+
+## 🏢 Shopify & CMS Developer — DreamDecor
+
+- Shopify Plus Development
+- Shopify CLI
+- Liquid Development
+- Storefront API
+- Headless Shopify
+- WordPress
+- HubSpot CRM
+- GoHighLevel
+- Klaviyo
+- Meta Pixel
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,js,ts"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,php"/>
+</p>
+
+### Shopify & CMS
+
+<p>
+<img src="https://skillicons.dev/icons?i=shopify,wordpress"/>
+</p>
+
+**Also Experienced In**
+
+- Shopify Plus
+- Shopify CLI
+- Liquid
+- Storefront API
+- Hydrogen
+- Headless CMS
+- HubSpot
+- GoHighLevel
+- Klaviyo
+
+---
+
+# 🤖 AI Development
+
+- RAG Systems
+- LangChain
+- OpenAI APIs
+- Mistral
+- Pinecone
+- Vector Databases
+- AI Chatbots
+- Semantic Search
+
+---
+
+# 🚀 Featured Projects
+
+### ⚖️ LawMate AI
+
+AI Legal Assistant powered by LangChain, Mistral 7B and RAG.
+
+**Tech**
+
+React • Node.js • LangChain • Pinecone • MongoDB
+
+---
+
+### 🛍 DreamDecor
+
+Headless Shopify Plus Store
+
+- Storefront API
+- Shopify CLI
+- Liquid
+- CRO
+- Core Web Vitals
+
+---
+
+### 💄 KanuBeauty
+
+Enterprise Shopify Store
+
+- HubSpot CRM
+- Klaviyo
+- Meta Pixel
+- Headless Shopify
+
+---
+
+### 🏭 Alkaram Automation Platform
+
+Enterprise workflow platform
+
+- RBAC
+- Real-time dashboards
+- Workflow engine
+- React
+- Node
+- MongoDB
+
+---
+
+### 🎨 Elipse Studio 3D Configurator
+
+Real-time product configurator
+
+- Three.js
+- WebGL
+- Live Material Preview
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zunnoonwaheed&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=zunnoonwaheed&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zunnoonwaheed&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+✅ Team Lead managing production projects
+
+✅ 40% Faster Deployment through CI/CD
+
+✅ 30% Reduction in Production Bugs
+
+✅ Built 10+ Production Shopify Stores
+
+✅ AI-powered SaaS Applications
+
+✅ Enterprise CRM Integrations
+
+✅ Headless Commerce Solutions
+
+---
+
+# 📜 Certifications
+
+- Google Digital Marketing
+- HubSpot CRM
+- Coursera SEO
+- NAVTTC Full Stack Development
+- PNY MERN Stack
+- Agile Methodology
+- Backend Engineering
+
+---
+
+# 🌎 Connect With Me
+
+<p align="left">
+
+<a href="mailto:zunnoonwaheed@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-zunnoon-1386ba211">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/zunnoonwaheed">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💡 *Building scalable software, AI solutions, and world-class Shopify experiences.*
+
+</p>
